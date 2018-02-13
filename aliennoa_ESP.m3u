@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:0,FDF
+#EXTGRP:unsorted
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+#EXTINF:0,TVE LA 1
+#EXTGRP:unsorted
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TVE LA 1 CATALUNYA
+#EXTGRP:unsorted
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/index_0400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TVE LA 2
+#EXTGRP:unsorted
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,24H
+#EXTGRP:unsorted
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,A3
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:0,BOING
+#EXTGRP:unsorted
+https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
+#EXTINF:0,ANIME TV
+#EXTGRP:unsorted
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0,PAKA PAKA (ARGENTINA)
+#EXTGRP:unsorted
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:0,CUATRO
+#EXTGRP:unsorted
+http://mdsiosgeo2-lh.akamaihd.net/i/mitele/esmediaset_22@168498/index_0_av-p.m3u8
+#EXTINF:0,LAS ESTRELLAS (OP2)
+#EXTGRP:unsorted
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:0,TELECINCO
+#EXTGRP:unsorted
+https://dai.google.com/linear/hls/s/event/XqcS7SpLTLWIo_QetmAfnw/stream/d1ee6b34-55f5-4ff4-9b7a-0a405a49f2d4:CHS-staging/variant/3fac134dcc43736274b954241b2d0060/bandwidth/764000.m3u8
+#EXTINF:0,MEGA
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,LA SEXTA
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:0,NOVA
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,DIVINITY
+#EXTGRP:unsorted
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:0,ATRESERIES
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,BEMAD
+#EXTGRP:unsorted
+https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
+#EXTINF:0,NEOX
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TDP
+#EXTGRP:unsorted
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_0400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,COCINA
+#EXTGRP:unsorted
+http://xxedge161.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8?token=WcBVze9H1-ke51bvU5lD0Q&expires=1513563621
+#EXTINF:0,ENERGY
+#EXTGRP:unsorted
+https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_1.m3u8
+#EXTINF:0,MOVISTAR ESTRENOS
+#EXTGRP:unsorted
+http://tepo5.telesport.pw/live/plusestrenos/index.m3u8?token=nbDI8mQauqhAOhmWzSP3_w&expires=1513641997
+#EXTINF:0,CANAL PLUS D'CINE
+#EXTGRP:unsorted
+http://tepo7.telesport.pw/live/dcine/index.m3u8?token=8lzDcRsMBcuNI9zzml0CpA&expires=1513645707
+#EXTINF:0,CINE ESPANOL
+#EXTGRP:unsorted
+http://tepo6.telesport.pw/live/dcine/index.m3u8?token=v9Xobx-fa8Pfc8MDuVmWYw&expires=1513645898
+#EXTINF:0,COMEDIA
+#EXTGRP:unsorted
+http://tepo7.telesport.pw/live/comedia/index.m3u8?token=Xt1AmiHNcvbFbwX40yZQYQ&expires=1513645970
