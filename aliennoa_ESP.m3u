@@ -49,7 +49,7 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&r
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:0,ATRESERIES
 #EXTGRP:unsorted
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?sd=10&rebase=on
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:0,BEMAD
 #EXTGRP:unsorted
 https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
